@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phoosop-monster-rolodex/static/css/main.35fea07d.chunk.css",
+    "main.js": "/phoosop-monster-rolodex/static/js/main.59f9ea40.chunk.js",
+    "main.js.map": "/phoosop-monster-rolodex/static/js/main.59f9ea40.chunk.js.map",
+    "runtime-main.js": "/phoosop-monster-rolodex/static/js/runtime-main.bf3b7ac9.js",
+    "runtime-main.js.map": "/phoosop-monster-rolodex/static/js/runtime-main.bf3b7ac9.js.map",
+    "static/js/2.d8d20882.chunk.js": "/phoosop-monster-rolodex/static/js/2.d8d20882.chunk.js",
+    "static/js/2.d8d20882.chunk.js.map": "/phoosop-monster-rolodex/static/js/2.d8d20882.chunk.js.map",
+    "index.html": "/phoosop-monster-rolodex/index.html",
+    "precache-manifest.d16ce1b3d59eed31b3d4d9e7e0d01635.js": "/phoosop-monster-rolodex/precache-manifest.d16ce1b3d59eed31b3d4d9e7e0d01635.js",
+    "service-worker.js": "/phoosop-monster-rolodex/service-worker.js",
+    "static/css/main.35fea07d.chunk.css.map": "/phoosop-monster-rolodex/static/css/main.35fea07d.chunk.css.map",
+    "static/js/2.d8d20882.chunk.js.LICENSE": "/phoosop-monster-rolodex/static/js/2.d8d20882.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf3b7ac9.js",
+    "static/js/2.d8d20882.chunk.js",
+    "static/css/main.35fea07d.chunk.css",
+    "static/js/main.59f9ea40.chunk.js"
+  ]
+}
